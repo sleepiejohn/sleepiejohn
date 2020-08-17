@@ -1,4 +1,9 @@
-### Hi there 👋
+### Be welcomed to my goofy self presentation.
+
+I'm developer doing business systems to help workers more productive in their 📋 tasks and managers more insightful about companies 📊 metrics!
+
+I have been practicing topics such as full stack development, dabbing into machine learning and now learning more about distributed systems more
+specifically fault resilience and tolerance 💥
 
 <!--
 **sleepiejohn/sleepiejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
