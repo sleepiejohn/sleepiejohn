@@ -5,6 +5,11 @@ I'm developer doing business systems to help workers more productive in their �
 I have been practicing topics such as full stack development, dabbing into machine learning and now learning more about distributed systems more
 specifically fault resilience and tolerance 💥
 
+If these topics interest you too get in touch! I will be happy to learn more from you!
+
+Hit me up @ `evangelistajoaop [at] gmail [dot] com`
+
+<img src="https://media.tenor.com/images/a2c03c58c2a86927613b7347a775da64/tenor.gif" />
 <!--
 **sleepiejohn/sleepiejohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
